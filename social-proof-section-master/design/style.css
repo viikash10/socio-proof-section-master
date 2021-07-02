@@ -1,0 +1,154 @@
+.container1{
+      position: relative;
+      text-align: center;
+      color: purple;
+      font-family:  'Spartan', sans-serif ;
+      width: 50%;
+      height: 50%;
+  }
+.top-left{
+    position: absolute;
+    left: 10px ;
+    top: 55px ;
+}
+.heading{
+    width: 31%;
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-left: 12%;
+    color: hsl(300, 43%, 22%);
+}
+.heading-data{
+    width: 45%;
+    margin-left: 12%;
+    color: rgb(209, 207, 205);
+    font-weight: bold;
+}
+
+
+/*decoration */ 
+
+.top-right-1,.top-right-2,.top-right-3{
+    position: absolute;
+    background-color: hsl(300, 24%, 96%);
+    padding: 2%;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
+
+.top-right-1{
+    
+    right: 10px ;
+    top: 90px ;
+    left: 47%;
+    width: 20%; 
+    color: rgb(73, 3, 67);
+    
+}
+.top-right-2{
+    
+    right: 307px ;
+    top: 198px;
+}
+
+.top-right-3{
+    
+    left: 66%  ;
+    top: 306px; 
+    
+}
+
+/*body styinling*/
+/* images */
+
+.img-colton,.img-irene,.img-anne{
+    border-radius: 100%;
+    padding: 5% 7%;
+}
+
+
+/*positioning*/
+
+.Colton-Smith,.Irene-Roberts,.Anne-Wallace{
+    background-color: rgb(73, 3, 67);
+    color: whitesmoke;
+    border-radius: 7px ;
+    width: 25%;
+    position: absolute;
+
+}
+
+/*content*/
+
+.Colton-Smith-Content,.Irene-Roberts-Content ,.Anne-Wallece-Content{
+    padding: 5% 7%;
+    line-height: 27px;    
+
+}
+
+
+
+.Colton-1,.Irene-1,.Anne-1{
+    margin: 5%  7%;
+    position: absolute;
+    top: -1%;
+    left: 28%;
+    line-height: 2rem;
+    font-weight: bold;
+    
+}
+
+.Colton-1,.Irene-1,.Anne-1{
+    margin: 5%  7%;
+    position: absolute;
+    top: -1%;
+    left: 28%;
+    line-height: 2rem;
+    font-weight: bold;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+/* colton-smith*/
+
+
+.Colton-Smith{ top: 60%;
+    right: 50%;
+    left: 8.1%;}
+
+
+/*Irene-roberts*/
+
+.Irene-Roberts{
+    top:  66% ;
+    left: 36% ;
+}
+
+
+/* Anne-Wallace*/
+
+.Anne-Wallace{
+    top: 72% ;
+    left: 64% ;
+    width: 25% ;
+}
+
+/* attribution */
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
